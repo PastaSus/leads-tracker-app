@@ -1,4 +1,3 @@
-Here’s a **README.md** for your Leads Tracker app, explaining what it does, how it works, and what lessons can be learned from the code.
 
 ---
 
